@@ -11,7 +11,7 @@ namespace DominandoEFCore.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            const string strConnection = "Server=localhost,1433;Database=balta;User ID=sa;Password=1q2w3e4r@#$";
+            const string strConnection = "Server=localhost,1433;Database=EFCore;User ID=sa;Password=1q2w3e4r@#$";
             optionsBuilder
                 .UseSqlServer(strConnection)
                 .EnableSensitiveDataLogging()
