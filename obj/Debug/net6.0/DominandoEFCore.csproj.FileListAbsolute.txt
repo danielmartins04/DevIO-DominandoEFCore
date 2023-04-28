@@ -1,0 +1,15 @@
+C:\developer\DevIO\DominandoEFCore\bin\Debug\net6.0\DominandoEFCore.exe
+C:\developer\DevIO\DominandoEFCore\bin\Debug\net6.0\DominandoEFCore.deps.json
+C:\developer\DevIO\DominandoEFCore\bin\Debug\net6.0\DominandoEFCore.runtimeconfig.json
+C:\developer\DevIO\DominandoEFCore\bin\Debug\net6.0\DominandoEFCore.dll
+C:\developer\DevIO\DominandoEFCore\bin\Debug\net6.0\DominandoEFCore.pdb
+C:\developer\DevIO\DominandoEFCore\obj\Debug\net6.0\DominandoEFCore.csproj.AssemblyReference.cache
+C:\developer\DevIO\DominandoEFCore\obj\Debug\net6.0\DominandoEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\developer\DevIO\DominandoEFCore\obj\Debug\net6.0\DominandoEFCore.AssemblyInfoInputs.cache
+C:\developer\DevIO\DominandoEFCore\obj\Debug\net6.0\DominandoEFCore.AssemblyInfo.cs
+C:\developer\DevIO\DominandoEFCore\obj\Debug\net6.0\DominandoEFCore.csproj.CoreCompileInputs.cache
+C:\developer\DevIO\DominandoEFCore\obj\Debug\net6.0\DominandoEFCore.dll
+C:\developer\DevIO\DominandoEFCore\obj\Debug\net6.0\refint\DominandoEFCore.dll
+C:\developer\DevIO\DominandoEFCore\obj\Debug\net6.0\DominandoEFCore.pdb
+C:\developer\DevIO\DominandoEFCore\obj\Debug\net6.0\DominandoEFCore.genruntimeconfig.cache
+C:\developer\DevIO\DominandoEFCore\obj\Debug\net6.0\ref\DominandoEFCore.dll
