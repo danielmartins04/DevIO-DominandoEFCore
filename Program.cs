@@ -1,3 +1,3 @@
 ﻿using DominandoEFCore;
 
-Utils.EnsureCreatedAndDeleted();
+Utils.GapDoEnsureCreated();
