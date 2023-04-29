@@ -6,6 +6,21 @@ namespace DominandoEFCore
 {
     public static class Utils
     {
+        public static void HealthCheckBancoDeDados()
+        {
+            using var db = new ApplicationContext();
+            var canConnect = db.Database.CanConnect();
+
+            if (canConnect)
+            {
+                Console.WriteLine("Posso me conectar.");
+            }
+            else
+            {
+                Console.WriteLine("Não posso me conectar.");
+            }
+        }
+
         public static void EnsureCreatedAndDeleted()
         {
             using var db = new ApplicationContext();
